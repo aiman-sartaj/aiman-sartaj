@@ -5,7 +5,6 @@
 
 - ⚡ Fun fact **"If at first, you don't succeed, call it version 1.0.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
