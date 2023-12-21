@@ -1,4 +1,4 @@
-**"If at first, you don't succeed, call it version 1.0.**
+**If at first, you don't succeed, call it version 1.0.**
 
 <p align="left">
 </p>
